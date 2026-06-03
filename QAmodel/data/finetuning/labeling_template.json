@@ -1,0 +1,723 @@
+[
+  {
+    "query_id": 160,
+    "question": "Какие варианты причин, по которой слушатель будет отчислен, предлагает КИАС «Универис»?",
+    "source_doc": "Polozhenie_2024.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 159,
+    "question": "Какие 3 варианта возможного отчисления предлагает КИАС \"Универис\"?",
+    "source_doc": "Trebovaniya ohrani truda 15.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 158,
+    "question": "Какая вкладка нужна для формирования приказа об отчислении?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 156,
+    "question": "До каких пор сохраняется возможность внесения изменений в приказ о зачислении?",
+    "source_doc": "Polozhenie_2024.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 155,
+    "question": "Какую форму финансирования выбирать из выпадающего списка в случае внутреннего, корпоративного обучения, когда слушатели сотрудники и студенты ЮУрГУ?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 154,
+    "question": "Какой первый шаг для формирования приказа о зачислении в КИАС «Универис»?",
+    "source_doc": "Trebovaniya ohrani truda 11.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 153,
+    "question": "Сколько человек не должно превышать число поступающих с ограниченными возможностями здоровья в одной аудитории?",
+    "source_doc": "Meri pojarnoi bezopasnosti.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 152,
+    "question": "В какой период проводятся вступительные испытания в аспирантуру?",
+    "source_doc": "Pravila priema v aspitanturu.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 151,
+    "question": "Когда завершается прием заявлений на очную форму обучения в рамках контрольных цифр приема?",
+    "source_doc": "Pravila priema v aspitanturu.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 150,
+    "question": "Если поступающий, подавший согласие на зачисление, хочет подать согласие на зачисление в другую организацию, что он должен сделать?",
+    "source_doc": "Pravila priema v aspitanturu.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 149,
+    "question": "Сколько баллов не может превышать общий балл за общие индивидуальные достижения (публикации и рекомендацию научного руководителя)?",
+    "source_doc": "Trebovaniya ohrani truda 13.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 148,
+    "question": "Каким количеством ограничено максимальное количество баллов за публикации?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 147,
+    "question": "Сколько баллов начисляются за патент на изобретение?",
+    "source_doc": "Trebovaniya ohrani truda pri pogruzochno_razgruzochnih rabotah 7.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 147,
+    "question": "Сколько баллов начисляются за патент на изобретение?",
+    "source_doc": "Trebovaniya ohrani truda pri pogruzochno_razgruzochnih rabotah 7.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 146,
+    "question": "Сколько баллов начисляются за тезисы докладов на конференциях, опубликованных в издании, индексируемом в РИНЦ?",
+    "source_doc": "Trebovaniya ohrani truda pri pogruzochno_razgruzochnih rabotah 5.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 144,
+    "question": "Сколько баллов зачисляются за научную статью, опубликованную в в рецензируемом журнале, индексируемом в РИНЦ?",
+    "source_doc": "Pravila priema v aspitanturu.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 143,
+    "question": "Сколько баллов зачисляются за научную статью, опубликованную в рецензируемом издании, индексируемом в международных базах данных Scopus и (или) Web of Science (квартиль Q1- Q2)?",
+    "source_doc": "Pravila priema v aspitanturu.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 142,
+    "question": "На каком языке проводятся вступительные испытания?",
+    "source_doc": "Pravila priema v aspitanturu.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 141,
+    "question": "При каком условии результаты вступительных испытаний действительны?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 140,
+    "question": "Какие вступительные испытания сдают поступающие (по всем научным специальностям)?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 139,
+    "question": "Какие одинаковые параметры устанавливает Университет для конкурсов, имеющих одинаковый конкурсный профиль?",
+    "source_doc": "Centr testirovaniya inostrannih grajdan.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 138,
+    "question": "Что делает Университет в случае если по научным специальностям отсутствуют места в рамках контрольных цифр приема?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 137,
+    "question": "Что делает Университет в рамках подготовки к проведению и проведения приема на обучение?",
+    "source_doc": "Polozhenie_2024.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 136,
+    "question": "Какие лица допускаются к освоению программ аспирантуры?",
+    "source_doc": "Pravila priema v aspitanturu.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 135,
+    "question": "Какое первое правило приема в аспирантуру?",
+    "source_doc": "Sohranenie faila blokirovannoi pechati.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 134,
+    "question": "Какой четвертый шаг нужно сделать, чтобы создать поток для обучения слушателей в КИАС «Универис»?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 133,
+    "question": "Какой третий шаг нужно сделать, чтобы создать поток для обучения слушателей в КИАС «Универис»?",
+    "source_doc": "Polozhenie_2024.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 132,
+    "question": "Где смотреть инструкцию для подключения глобальной группы к курсу?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 131,
+    "question": "Какой первый шаг нужно сделать, чтобы создать поток для обучения слушателей в КИАС «Универис»?",
+    "source_doc": "Polozhenie_2024.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 130,
+    "question": "Что автоматически создается при создании потока в Универисе?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 129,
+    "question": "Какие документы обучающийся прилагает к заявлению?",
+    "source_doc": "Meri pojarnoi bezopasnosti.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 128,
+    "question": "Кто возглавляет Комиссию?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 127,
+    "question": "Что представляет участник специальной военной операции, желающий перейти на вакантное бюджетное место?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 126,
+    "question": "Какое решение принимает Комиссия в отношении оставшихся заявлений при заполнении имеющихся вакантных мест?",
+    "source_doc": "Polozhenie_2024.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 122,
+    "question": "Как определяется количество вакантных бюджетных мест?",
+    "source_doc": "Pravila priema v aspitanturu.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 121,
+    "question": "Что нужно делать в случае пожара вне моей комнаты в общежитии?",
+    "source_doc": "Meri pojarnoi bezopasnosti.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 120,
+    "question": "Что нужно делать в случае пожара в моей комнате в общежитии?",
+    "source_doc": "Trebovaniya ohrani truda 1.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 119,
+    "question": "С помощью чего запрещено проводить уборку помещений и стирку одежды в общежитии?",
+    "source_doc": "Meri pojarnoi bezopasnosti.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 118,
+    "question": "Без согласования с кем запрещено проводить ремонт жилых комнат в общежитии?",
+    "source_doc": "Trebovaniya ohrani truda 3.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 117,
+    "question": "Что запрещено носить и хранить в общежитиях?",
+    "source_doc": "Trebovaniya ohrani truda 3.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 116,
+    "question": "Что в общежитии запрещается делать с электролампами и светильниками?",
+    "source_doc": "Trebovaniya ohrani truda pri pogruzochno_razgruzochnih rabotah 5.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 115,
+    "question": "Какие правила пожарной безопасности обязан выполнять проживающий в общежитии?",
+    "source_doc": "Trebovaniya ohrani truda pri pogruzochno_razgruzochnih rabotah 5.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 114,
+    "question": "Что нужно сделать после нажатия на вкладку [Настр.разм.бумаги]?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 113,
+    "question": "Какую вкладку нужно открыть, чтобы использовать принтер для ноутбука?",
+    "source_doc": "Trebovaniya ohrani truda pri pogruzochno_razgruzochnih rabotah 5.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 112,
+    "question": "Как настроить параметры дополнительного оборудования и параметров бумаги принтера?",
+    "source_doc": "Trebovaniya ohrani truda 22.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 111,
+    "question": "При каком условии сертификат о прохождении государственного тестирования по русскому языку может быть выдан третьему лицу?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 110,
+    "question": "Что запрещается делать во время экзамена по русскому языку, истории России и основам законодательства РФ?",
+    "source_doc": "Trebovaniya ohrani truda pri pogruzochno_razgruzochnih rabotah 5.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 109,
+    "question": "Что необходимо принести на экзамен по русскому языку, истории России и основам законодательства РФ?",
+    "source_doc": "Pravila priema v aspitanturu.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 108,
+    "question": "Какова стоимость прохождения тестирования по русскому языку, истории России и основам законодательства РФ для получения вида на жительство или разрешения на временное проживание?",
+    "source_doc": "Polozhenie_2024.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 106,
+    "question": "Где проводится запись на экзамен и сам экзамен по русскому языку, истории России и основам законодательства РФ?",
+    "source_doc": "Pravila priema v aspitanturu.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 105,
+    "question": "Что нужно делать для управления биометрией на портале Госуслуг?",
+    "source_doc": "Trebovaniya ohrani truda pri pogruzochno_razgruzochnih rabotah 5.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 104,
+    "question": "На каком портале можно управлять своей биометрией?",
+    "source_doc": "Sohranenie faila blokirovannoi pechati.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 103,
+    "question": "По чьей инициативе создана Единая биометрическая система?",
+    "source_doc": "Pravila priema VO.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 102,
+    "question": "Что такое Единая биометрическая система?",
+    "source_doc": "Zamena accumulyatora v noutbuke.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 101,
+    "question": "Нужно ли быть клиентом банка для регистрации подтвержденной биометрии?",
+    "source_doc": "Pravila priema v aspitanturu.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 100,
+    "question": "Как зарегистрировать подтвержденную биометрию?",
+    "source_doc": "Trebovaniya ohrani truda pri pogruzochno_razgruzochnih rabotah 5.docx",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 99,
+    "question": "Как зарегистрировать стандартную биометрию?",
+    "source_doc": "Zamena accumulyatora v noutbuke.pdf",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 84,
+    "question": "Как калибровать весы ВС-200?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 82,
+    "question": "Какие обязательства со стороны образовательной организации устанавливает договор о целевом обучении?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 81,
+    "question": "Какие обязательства со стороны заказчика устанавливает договор о целевом обучении?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 80,
+    "question": "Какие обязательства со стороны гражданина устанавливает договор о целевом обучении?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 79,
+    "question": "С кем заключается договор о целевом обучении?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 78,
+    "question": "Как подать заявку в Приемную комиссию Юургу одновременно с заявлением о приеме на обучение?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 77,
+    "question": "Что должен сделать гражданин, желающий принять участие в конкурсе на целевое обучение?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 76,
+    "question": "Как осуществляется прием на целевое обучение?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 74,
+    "question": "Кто является организацией-заказчиком?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 73,
+    "question": "Каковы основные преимущества целевого обучения?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 72,
+    "question": "Кто может поступить на целевое обучение?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 71,
+    "question": "Какими основными документами регламентируется целевое обучение?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 70,
+    "question": "Что такое целевое обучение?",
+    "source_doc": "Celevoe obuchenie.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 66,
+    "question": "Как настроить датчик температуры?",
+    "source_doc": "another_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 63,
+    "question": "Какой минимальный балл нужно набрать для поступления на курс обществознания?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 61,
+    "question": "Какой минимальный балл нужно набрать на вступительных испытаниях, проводимых вузом самостоятельно?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 59,
+    "question": "Какой минимальный балл нужно набрать для поступления на курс информатики?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 58,
+    "question": "Какой минимальный балл нужно набрать для вступительных испытаний творческой и (или) профессиональной направленности?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 54,
+    "question": "Какой минимальный балл нужно набрать для поступления на курс русского языка?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 53,
+    "question": "Какой минимальный балл нужно набрать для поступления на курс обществознания?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 51,
+    "question": "Какой минимальный балл нужно набрать на вступительных испытаниях, проводимых вузом самостоятельно?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 50,
+    "question": "Какой минимальный балл нужно набрать для поступления на курс химии?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 48,
+    "question": "Какой минимальный балл нужно набрать для поступления на курс информатики?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 47,
+    "question": "Какой минимальный балл нужно набрать для поступления на курс истории?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 46,
+    "question": "Какой минимальный балл нужно набрать для курса русского языка?",
+    "source_doc": "test_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 43,
+    "question": "Какой минимальный балл нужно набрать для вступительных испытаний творческой и (или) профессиональной направленности?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 42,
+    "question": "Какой минимальный балл нужно набрать для поступления на курс математики профильного уровня?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 40,
+    "question": "Какой минимальный балл нужно набрать для поступления на курс биологии?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 39,
+    "question": "Как калибровать весы ВС-200?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 37,
+    "question": "Как настроить датчик температуры?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 35,
+    "question": "Как настроить датчик температуры?",
+    "source_doc": "Balli po vstupitelnim ispitaniyam.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 30,
+    "question": "Как настроить датчик температуры?",
+    "source_doc": "another_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 27,
+    "question": "Как калибровать весы ВС-200?",
+    "source_doc": "another_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 25,
+    "question": "Как настроить датчик температуры?",
+    "source_doc": "another_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 24,
+    "question": "Какие гири использовать для калибровки?",
+    "source_doc": "another_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 23,
+    "question": "Для чего нужен разъем X7?",
+    "source_doc": "test_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 22,
+    "question": "Как калибровать весы ВС-200?",
+    "source_doc": "test_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 21,
+    "question": "Какие гири нужно использовать для калибровки весов?",
+    "source_doc": "another_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 20,
+    "question": "Что нужно сделать перед калибровкой весов?",
+    "source_doc": "another_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 19,
+    "question": "Сколько времени занимает процесс калибровки?",
+    "source_doc": "another_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 18,
+    "question": "Как провести калибровку весов?",
+    "source_doc": "test_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 17,
+    "question": "Что делать, если индикатор датчика красный?",
+    "source_doc": "test_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 17,
+    "question": "Что делать, если индикатор датчика красный?",
+    "source_doc": "test_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 16,
+    "question": "Куда нужно подключить датчик температуры после отключения питания?",
+    "source_doc": "test_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 15,
+    "question": "При настройке датчика температуры, в какое положение нужно установить переключатель S1?",
+    "source_doc": "test_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  },
+  {
+    "query_id": 12,
+    "question": "Для чего нужен разъем X7?",
+    "source_doc": "test_doc.txt",
+    "correct_answer": "",
+    "context": ""
+  }
+]
