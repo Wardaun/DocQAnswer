@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "another_doc.txt",
+    "version": "1.0",
+    "category": "Техническая",
+    "upload_date": "2026-05-26 11:40:21",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Biometriya.txt",
+    "version": "1.0",
+    "category": "Инструкция",
+    "upload_date": "2026-05-26 21:33:37",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Balli po vstupitelnim ispitaniyam.txt",
+    "version": "1.0",
+    "category": "Общая",
+    "upload_date": "2026-05-30 02:45:27",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "Celevoe obuchenie.txt",
+    "version": "1.0",
+    "category": "Руководство",
+    "upload_date": "2026-05-30 02:46:22",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "Prikaz o zachislenii.txt",
+    "version": "1.0",
+    "category": "Инструкция",
+    "upload_date": "2026-05-30 02:46:55",
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "name": "Nastroika parametrov bumagi.txt",
+    "version": "1.0",
+    "category": "Техническая",
+    "upload_date": "2026-05-30 02:47:16",
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "name": "Centr testirovaniya inostrannih grajdan.txt",
+    "version": "1.0",
+    "category": "Общая",
+    "upload_date": "2026-05-30 02:48:08",
+    "status": "active"
+  }
+]

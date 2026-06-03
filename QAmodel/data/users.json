@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "username": "employee",
+    "email": "",
+    "password_hash": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+    "role": "employee",
+    "status": "active",
+    "last_login": "2026-06-01 00:09:14",
+    "created_at": "2026-05-26 23:15:49"
+  },
+  {
+    "id": 2,
+    "username": "expert",
+    "email": "",
+    "password_hash": "de1b66c2e56b42536acaf9e382a8fadfceb31a6a6a8b6263853aa47cce5dbea5",
+    "role": "expert",
+    "status": "active",
+    "last_login": "2026-06-01 00:18:36",
+    "created_at": "2026-05-26 23:15:49"
+  },
+  {
+    "id": 3,
+    "username": "admin",
+    "email": "",
+    "password_hash": "0ca7539a8577dd196641e11315f8fc7d1dba9cc2741752642def9bcdb3599467",
+    "role": "admin",
+    "status": "active",
+    "last_login": "2026-06-01 00:37:50",
+    "created_at": "2026-05-26 23:15:49"
+  },
+  {
+    "id": 4,
+    "username": "Markus13",
+    "email": "reshko@gmail.com",
+    "password_hash": "b3a8e0e1f9ab1bfe3a36f231f676f78bb30a519d2b21e6c530c0eee8ebb4a5d0",
+    "role": "employee",
+    "status": "active",
+    "last_login": "2026-05-27 18:44:49",
+    "created_at": "2026-05-26 23:59:44",
+    "name": "Markov Oleg"
+  }
+]
